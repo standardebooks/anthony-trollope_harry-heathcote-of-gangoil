@@ -34,7 +34,7 @@
 		<meta property="term" refines="#subject-1">sh2007100473</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008103514</meta>
-		<meta property="se:subject">TAG</meta>
+		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">The imperious nature of a young farmer arouses sharp hostilities from his neighbors as Christmas approaches.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Harry Heathcote is a young immigrant “squatter,” farming thousands of acres in Queensland, Australia. His strong personality wins the loyalty of friends and family. But that same imperious nature makes him enemies, too, who would like nothing more than to see him ruined. As Christmas approaches, the conditions for his ruin arise naturally in the intense, scorching heat of a southern hemisphere summer. His enemies, however, spot an opportunity to give nature a helping hand. Their sharp conflict contrasts with a muted romantic subplot—but even here, Heathcote’s tone and temper complicate the path of true love.&lt;/p&gt;
