@@ -35,9 +35,11 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008103514</meta>
 		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">The imperious nature of a young farmer arouses sharp hostilities from his neighbors as Christmas approaches.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			<p>Harry Heathcote is a young immigrant “squatter,” farming thousands of acres in Queensland, Australia. His strong personality wins the loyalty of friends and family. But that same imperious nature makes him enemies, too, who would like nothing more than to see him ruined. As Christmas approaches, the conditions for his ruin arise naturally in the intense, scorching heat of a southern hemisphere summer. His enemies, however, spot an opportunity to give nature a helping hand. Their sharp conflict contrasts with a muted romantic subplot—but even here, Heathcote’s tone and temper complicate the path of true love.</p>
+			<p><i>Harry Heathcote</i> is one of <a href="https://standardebooks.org/ebooks/anthony-trollope">Anthony Trollope’s</a> shorter novels, but still displays the strengths of his sharp psychological insight into his leading characters, and capacity to produce natural dialog. It also draws on his first-hand knowledge of his son’s experience of farming in Australia, observed during Trollope’s extended tour of the Antipodes in 1871.</p>
+			<p>An invitation to produce a “Christmas story” came while Trollope was writing <i><a href="https://standardebooks.org/ebooks/anthony-trollope/the-way-we-live-now">The Way We Live Now</a></i>. <i>Harry Heathcote</i> was the result, fulfilling the brief, but without the “humbug” that Trollope believed marred too much writing in the genre.</p>
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/5642</dc:source>
